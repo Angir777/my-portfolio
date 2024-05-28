@@ -5,12 +5,12 @@ Hello! I am Błażej. Creating web applications is for me more than only job. It
 ## 📚 My example projects:
 
 **WordPress themes:**
-- ([Vapautta](https://github.com/Angir777/vapautta))
-- ([FortyFour](https://github.com/Angir777/fortyfour))
+- [Vapautta](https://github.com/Angir777/vapautta)
+- [FortyFour](https://github.com/Angir777/fortyfour)
 
 ## 📞 Contact
 
 Do you want to contact with me? You can find me on:
-- LinkedIn: [Błażej Skrzypniak]([https://www.linkedin.com/in/twojeimie/](https://www.linkedin.com/in/skrzypniak/))
+- LinkedIn: [Błażej Skrzypniak](https://www.linkedin.com/in/skrzypniak/)
 
 Thank you for visiting my portfolio! Have a nice day!
