@@ -4,9 +4,19 @@ Hello! I am Błażej. Creating web applications is for me more than only job. It
 
 ## 📚 My example projects:
 
+**Laravel:**
+- [Laravel API](https://github.com/Angir777/project-api)
+
 **WordPress themes:**
 - [Vapautta](https://github.com/Angir777/vapautta)
 - [FortyFour](https://github.com/Angir777/fortyfour)
+
+**Pure PHP:**
+- [Baboki Shop](https://github.com/Angir777/baboki)
+- [Secure login page in vanilla PHP](https://github.com/Angir777/hype)
+
+**Unity - for fun :):**
+- [DicePoker](https://github.com/Angir777/DicePoker)
 
 ## 📞 Contact
 
