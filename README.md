@@ -5,10 +5,10 @@ Hello! I am Błażej. Creating web applications is for me more than only job. It
 ## 💪 Tags of my skills and technologies I know
 
 ### Very Proficient
-`PHP`, `Laravel`, `Angular`, `Nebular`, `Composer`, `NPM`, `WordPress management`, `Creating templates for WorPress`, `MySQL`, `MSSQL`, `PostgreSQL`, `GIT`, `GitHub`, `GitLab`, `HTML`, `CSS`, `Bootstrap`, `JavaScript`, `jQuery`, `AJAX`, `SASS`, `LESS`, `Adobe Photoshop`,  
+`PHP`, `Laravel`, `Angular`, `Nebular`, `Composer`, `NPM`, `WordPress management`, `Creating templates for WorPress`, `MySQL`, `MSSQL`, `PostgreSQL`, `GIT`, `GitHub`, `GitLab`, `HTML`, `CSS`, `Bootstrap`, `JavaScript`, `jQuery`, `AJAX`, `SASS`, `LESS`, `Adobe Photoshop`
 
 ### Proficient
-`Linux system administration for web projects`, `Tailwind CSS`, `Creating templates for WooCommerce`, `Audacity`, `Adobe Illustrator` (Creating and cutting layouts/simple advertising graphics), `Adobe Premiere Pro` (Creating and editing video/audio), `Adobe Audition` 
+`Linux system administration for web projects`, `Tailwind CSS`, `Creating templates for WooCommerce`, `Audacity`, `Adobe Illustrator (Creating and cutting layouts/simple advertising graphics)`, `Adobe Premiere Pro (Creating and editing video/audio)`, `Adobe Audition` 
 
 ### Basic Knowledge
 `React.js`, `Symfony`, `Basic knowledge of C# (for Unity)`
@@ -27,18 +27,18 @@ Hello! I am Błażej. Creating web applications is for me more than only job. It
 
 ## 🌟 My example projects
 
-**Laravel:**
+**Laravel**
 - [Laravel API](https://github.com/Angir777/project-api)
 
-**WordPress themes:**
+**WordPress themes**
 - [Vapautta](https://github.com/Angir777/vapautta)
 - [FortyFour](https://github.com/Angir777/fortyfour)
 
-**Pure PHP:**
+**Pure PHP**
 - [Baboki Shop](https://github.com/Angir777/baboki)
 - [Secure login page in vanilla PHP](https://github.com/Angir777/hype)
 
-**Unity - for fun :):**
+**Unity**
 - [DicePoker](https://github.com/Angir777/DicePoker)
 
 ## 📞 Contact
