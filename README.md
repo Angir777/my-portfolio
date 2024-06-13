@@ -34,6 +34,9 @@ Hello! I am Błażej. Creating web applications is for me more than only job. It
 - [Vapautta](https://github.com/Angir777/vapautta)
 - [FortyFour](https://github.com/Angir777/fortyfour)
 
+**WordPress WooCommerce themes**
+- [EightyEight](https://github.com/Angir777/eightyeight)
+
 **Pure PHP**
 - [Baboki Shop](https://github.com/Angir777/baboki)
 - [Secure login page in vanilla PHP](https://github.com/Angir777/hype)
