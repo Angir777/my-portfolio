@@ -1,6 +1,6 @@
 # 🚀 My Portfolio 
 
-Hello! I am Błażej. Creating web applications is for me more than only job. It is my hobby and fantastic way for creative spending a free time. I love Laravel and WordPress, but I am open to learning new technologies. I realized solo projects and also in group. I can work in front-end and back-end. I know the basics of working in a Linux terminal. I can create technical documentation. I’m good in planning and realising my projects.
+Hello! I am Błażej. Creating web applications is for me more than only job. It is my hobby and fantastic way for creative spending a free time. I love Laravel, Angular and WordPress, but I am open to learning new technologies. I realized solo projects and also in group. I can work in front-end and back-end. I know the basics of working in a Linux terminal. I can create technical documentation. I’m good in planning and realising my projects.
 
 ## 💪 Tags of my skills and technologies I know
 
