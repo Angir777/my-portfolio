@@ -5,7 +5,7 @@ Hello! I am Błażej. Creating web applications is for me more than only job. It
 ## 💪 Tags of my skills and technologies I know
 
 ### Very Proficient
-`PHP`, `Laravel`, `Angular`, `Nebular`, `Composer`, `NPM`, `WordPress management`, `Creating templates for WorPress`, `MySQL`, `MSSQL`, `PostgreSQL`, `GIT`, `GitHub`, `GitLab`, `HTML`, `CSS`, `Bootstrap`, `JavaScript`, `jQuery`, `AJAX`, `SASS`, `LESS`, `Adobe Photoshop`
+`PHP`, `Laravel`, `Angular`, `Nebular`, `Composer`, `NPM`, `WordPress management`, `Creating templates for WorPress`, `MySQL`, `MSSQL`, `PostgreSQL`, `GIT`, `GitHub`, `GitLab`, `Jira`, `HTML`, `CSS`, `Bootstrap`, `JavaScript`, `jQuery`, `AJAX`, `SASS`, `LESS`, `Adobe Photoshop`
 
 ### Proficient
 `Linux system administration for web projects`, `Tailwind CSS`, `Creating templates for WooCommerce`, `Audacity`, `Adobe Illustrator (Creating and cutting layouts/simple advertising graphics)`, `Adobe Premiere Pro (Creating and editing video/audio)`, `Adobe Audition` 
