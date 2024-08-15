@@ -30,6 +30,9 @@ Hello! I am Błażej. Creating web applications is for me more than only job. It
 **Laravel**
 - [Laravel API](https://github.com/Angir777/project-api)
 
+**Angular**
+- [Angular APP](https://github.com/Angir777/project-angular)
+
 **WordPress themes**
 - [Vapautta](https://github.com/Angir777/vapautta)
 - [FortyFour](https://github.com/Angir777/fortyfour)
@@ -48,6 +51,5 @@ Hello! I am Błażej. Creating web applications is for me more than only job. It
 
 Do you want to contact with me? You can find me on:
 - 💼 LinkedIn: [Błażej Skrzypniak](https://www.linkedin.com/in/skrzypniak/)
-- 📧 E-mail: hello@netmotion.pl
 
 Thank you for visiting my portfolio! Have a nice day!
