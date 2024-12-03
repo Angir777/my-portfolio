@@ -33,6 +33,9 @@ Hello! I am Błażej. Creating web applications is for me more than only job. It
 **Angular**
 - [Angular APP](https://github.com/Angir777/project-angular)
 
+**React**
+- [React APP](https://github.com/Angir777/project-react)
+
 **WordPress themes**
 - [Vapautta](https://github.com/Angir777/vapautta)
 - [FortyFour](https://github.com/Angir777/fortyfour)
